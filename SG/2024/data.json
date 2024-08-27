@@ -1,4 +1,46 @@
-{
+[
+  {
   "date":"20240101"
   "name":"New Year's Day"
-}
+  },
+  {
+  "date":"20240210"
+  "name":"Chinese New Year"
+  },
+  {
+  "date":"20240211"
+  "name":"Chinese New Year"
+  },
+  {
+  "date":"20240329"
+  "name":"Good Friday"
+  },
+  {
+  "date":"20240410"
+  "name":"Hari Raya Puasa"
+  },
+  {
+  "date":"20240501"
+  "name":"Labour Day"
+  },
+  {
+  "date":"20240522"
+  "name":"Vesak Day"
+  },
+  {
+  "date":"20240617"
+  "name":"Hari Raya Haji"
+  },
+  {
+  "date":"20240809"
+  "name":"National Day"
+  },
+  {
+  "date":"20241031"
+  "name":"Deepavali"
+  },
+  {
+  "date":"20241225"
+  "name":"Christmas Day"
+  }
+]
