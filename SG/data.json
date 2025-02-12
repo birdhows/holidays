@@ -1,47 +1,48 @@
 {
-    "2023": [
+    "2025": [
         {
-            "date": "20230101",
+            "date": "20250101",
             "name": "New Years Day"
         },
         {
-            "date": "20230210",
+            "date": "20250129",
             "name": "Chinese New Year"
         },
         {
-            "date": "20230211",
+            "date": "20250130",
             "name": "Chinese New Year"
         },
         {
-            "date": "20230329",
-            "name": "Good Friday"
-        },
-        {
-            "date": "20230410",
+            "date": "20250331",
             "name": "Hari Raya Puasa"
         },
         {
-            "date": "20230501",
+            "date": "20250418",
+            "name": "Good Friday"
+        },
+
+        {
+            "date": "20250501",
             "name": "Labour Day"
         },
         {
-            "date": "20230522",
+            "date": "20250512",
             "name": "Vesak Day"
         },
         {
-            "date": "20230617",
+            "date": "20250607",
             "name": "Hari Raya Haji"
         },
         {
-            "date": "20230809",
+            "date": "20250809",
             "name": "National Day"
         },
         {
-            "date": "20231031",
+            "date": "20251020",
             "name": "Deepavali"
         },
         {
-            "date": "20231225",
+            "date": "20251225",
             "name": "Christmas Day"
         }
     ],
@@ -91,49 +92,49 @@
             "name": "Christmas Day"
         }
     ],
-    "2025": [
+    "2023": [
         {
-            "date": "20250101",
+            "date": "20230101",
             "name": "New Years Day"
         },
         {
-            "date": "20250210",
+            "date": "20230210",
             "name": "Chinese New Year"
         },
         {
-            "date": "20250211",
+            "date": "20230211",
             "name": "Chinese New Year"
         },
         {
-            "date": "20250329",
+            "date": "20230329",
             "name": "Good Friday"
         },
         {
-            "date": "20250410",
+            "date": "20230410",
             "name": "Hari Raya Puasa"
         },
         {
-            "date": "20250501",
+            "date": "20230501",
             "name": "Labour Day"
         },
         {
-            "date": "20250522",
+            "date": "20230522",
             "name": "Vesak Day"
         },
         {
-            "date": "20250617",
+            "date": "20230617",
             "name": "Hari Raya Haji"
         },
         {
-            "date": "20250809",
+            "date": "20230809",
             "name": "National Day"
         },
         {
-            "date": "20251031",
+            "date": "20231031",
             "name": "Deepavali"
         },
         {
-            "date": "20251225",
+            "date": "20231225",
             "name": "Christmas Day"
         }
     ]
